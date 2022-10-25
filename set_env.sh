@@ -1,9 +1,0 @@
-export POSTGRES_USERNAME=shine102
-export POSTGRES_PASSWORD=shine102
-export POSTGRES_HOST=shine.cf1zknzlmu15.ap-southeast-1.rds.amazonaws.com
-export POSTGRES_DB=postgres
-export AWS_BUCKET=arn:aws:s3:::shine102
-export AWS_REGION=ap-southeast-1
-export AWS_PROFILE=default
-export JWT_SECRET=testing
-export URL=http://localhost:8100
